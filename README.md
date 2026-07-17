@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📦 InventoryScope
+# 📦 InventoryScope - Roblox Inventory Manager
 
 ### Modern Roblox Inventory Manager
 
@@ -9,18 +9,14 @@ Organize your Roblox creator assets in one simple desktop application.
 <p>
 
 ![Windows](https://img.shields.io/badge/Windows-10+-0078D6?style=for-the-badge)
-
 ![Rust](https://img.shields.io/badge/Rust-🦀-000000?style=for-the-badge)
-
 ![Tauri](https://img.shields.io/badge/Tauri-Desktop-24C8DB?style=for-the-badge)
-
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge)
-
 ![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
 
 </p>
 
-<img src="./assets/banner.png" width="100%">
+<img src="assets/inventory-manager.png" width="100%">
 
 <br>
 
