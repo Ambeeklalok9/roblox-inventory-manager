@@ -76,49 +76,7 @@ Just a clean desktop app.
 
 📐 Meshes
 
-👕
-
-Clothing
-
----
-
-# 🚀 Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/inventoryscope.git
-```
-
-Go to the project
-
-```bash
-cd inventoryscope
-```
-
-Install packages
-
-```bash
-npm install
-```
-
-Run
-
-```bash
-cargo tauri dev
-```
-
----
-
-# 📥 Releases
-
-Download the newest version from GitHub Releases.
-
-> Windows
-
-> Linux
-
-> macOS
+👕 Clothing
 
 ---
 
